@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:8e44ad&height=220&section=header&text=Azan%20Wasty&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Otaku&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B983FF&center=true&vCenter=true&width=600&lines=Solo+Developer+%26+Entrepreneur;Building+things+from+scratch;Powered+by+anime+and+caffeine" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B983FF&center=true&vCenter=true&width=600&lines=Full+sTACK+Developer+%26+Data+Scientist;Building+things+from+scratch;Powered+by+anime,+football+and+caffeine" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🎴 About Me
 
-> *(leave space here for your own intro text — favorite anime/manga, what you're building, etc.)*
+> Gracias ! Azan here, trying to be useful with my autism, ADHD, and knack for programming, so I can afford to enjoy my infinite hobbies .
 
 <div align="center">
 <img src="https://media.giphy.com/media/13d2jHlSlxklVe/giphy.gif" width="400">
