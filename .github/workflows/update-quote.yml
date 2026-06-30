@@ -1,0 +1,60 @@
+name: Update Anime Quote
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # once a day at 6am UTC
+  workflow_dispatch:        # manual trigger from Actions tab
+
+jobs:
+  update-quote:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch a random anime quote
+        id: quote
+        run: |
+          RESPONSE=$(curl -s "https://animechan.io/api/v1/quotes/random")
+          QUOTE=$(echo "$RESPONSE" | jq -r '.data.content')
+          CHARACTER=$(echo "$RESPONSE" | jq -r '.data.character.name')
+          ANIME=$(echo "$RESPONSE" | jq -r '.data.anime.name')
+
+          # fallback if the API hiccups or returns nulls
+          if [ "$QUOTE" == "null" ] || [ -z "$QUOTE" ]; then
+            QUOTE="The world is not beautiful, therefore it is."
+            CHARACTER="Kino"
+            ANIME="Kino's Journey"
+          fi
+
+          echo "line=*\"$QUOTE\" — $CHARACTER, $ANIME*" >> "$GITHUB_OUTPUT"
+
+      - name: Insert quote into README
+        run: |
+          python3 - <<'EOF'
+          import re
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          new_quote = """${{ steps.quote.outputs.line }}"""
+
+          content = re.sub(
+              r"(<!--QUOTE_START-->)(.*?)(<!--QUOTE_END-->)",
+              lambda m: f"{m.group(1)}\n{new_quote}\n{m.group(3)}",
+              content,
+              flags=re.DOTALL,
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: rotate anime quote"
+          git push
