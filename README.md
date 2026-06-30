@@ -80,7 +80,7 @@ ANDDD MUCH MUCH MOREE...
 <div align="center">
 
 <!--QUOTE_START-->
-*"I only enjoy one in ten movies, but that one movie can completely change your life" — Makima, Chainsaw Man*
+*"I only enjoy one in ten movies, but I've had that one movie completely change my life" — Makima, Chainsaw Man*
 <!--QUOTE_END-->
 
 </div>
