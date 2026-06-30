@@ -29,11 +29,11 @@
 
 <!-- ====================== TECH STACK ====================== -->
 
-## ⚔️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,postgres,prisma,html,css,tailwind,cpp,c,,git,vercel,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,postgres,prisma,html,css,tailwind,cpp,c,git,vercel,figma&theme=dark" />
 
 </div>
 
