@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:8e44ad&height=220&section=header&text=Azan%20Wasty&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Otaku&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:8e44ad&height=220&section=header&text=Azan%20Wasty&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20BuilderdescAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B983FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+Data+Scientist;Building+things+from+scratch;Powered+by+anime%2C+football+and+caffeine" />
 
