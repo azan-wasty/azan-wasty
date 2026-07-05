@@ -44,26 +44,6 @@
 
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/azan-wasty/LogHorizon">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=azan-wasty&repo=LogHorizon&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=b983ff&text_color=c9c9c9" width="48%"/>
-</a>
-
-<a href="https://github.com/azan-wasty/Fumble">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=azan-wasty&repo=Fumble&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=b983ff&text_color=c9c9c9" width="48%"/>
-</a>
-
-<a href="https://github.com/azan-wasty/Pacman">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=azan-wasty&repo=Pacman&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=b983ff&text_color=c9c9c9" width="48%"/>
-</a>
-
-<a href="https://github.com/azan-wasty/Parkinsons-Diagnosis-at-Initial-Stages-using-Vocal-Data">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=azan-wasty&repo=Parkinsons-Diagnosis-at-Initial-Stages-using-Vocal-Data&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=b983ff&text_color=c9c9c9" width="48%"/>
-</a>
-
-</div>
-
 ### Fumble
 Fumble is a comprehensive Sports and Entertainment Management System designed specifically for university environments.
 
