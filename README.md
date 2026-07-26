@@ -40,34 +40,6 @@
 
 ---
 
-<!-- ====================== PROJECTS ====================== -->
-
-## Featured Projects
-
-### Fumble
-Fumble is a comprehensive Sports and Entertainment Management System designed specifically for university environments.
-
-### LogHorizon
-LogHorizon is a cross-media entertainment discovery platform that provides personalized recommendations for anime, manga, movies, and television series based on user-selected genres, themes, and moods.
-
-ANDDD MUCH MUCH MOREE...
-
----
-
-<!-- ====================== ANIME QUOTE ====================== -->
-
-## Quote of the Visit
-
-<div align="center">
-
-<!--QUOTE_START-->
-*"I only enjoy one in ten movies, but I've had that one movie completely change my life" — Makima, Chainsaw Man*
-<!--QUOTE_END-->
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=azan-wasty&color=b983ff&style=flat-square&label=Profile+Views"/>
