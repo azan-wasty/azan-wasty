@@ -13,21 +13,6 @@
 > Gracias! Azan here, trying to be useful with my autism, ADHD, and knack for programming, so I can afford to enjoy my infinite hobbies.
 > Heres my portfolio website https://azan-2077.vercel.app/
 
-
-
-
-<!-- ====================== SNAKE GAME ====================== -->
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/azan-wasty/azan-wasty/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
 <!-- ====================== TECH STACK ====================== -->
 
 ##  Tech Arsenal
