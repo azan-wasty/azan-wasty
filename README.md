@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:8e44ad&height=220&section=header&text=Azan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B983FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+Data+Scientist;Building+things+from+scratch;Powered+by+anime%2C+football+and+caffeine" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B983FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%26+Data+Scientist;Building+things+from+scratch" />
 
 </div>
 
@@ -13,15 +13,6 @@
 > Gracias! Azan here, trying to be useful with my autism, ADHD, and knack for programming, so I can afford to enjoy my infinite hobbies.
 > Heres my portfolio website https://azan-2077.vercel.app/
 
-<!-- ====================== TECH STACK ====================== -->
-
-##  Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,postgres,prisma,html,css,tailwind,cpp,c,git,vercel,figma&theme=dark" />
-
-</div>
 
 ---
 
