@@ -1,8 +1,7 @@
 
-## About Me
-
 > Gracias! Azan here, trying to be useful with my autism, ADHD, and knack for programming, so I can afford to enjoy my infinite hobbies.
-> Heres my portfolio website
+> I'm into football, literatures and art forms of all types and love building dope stuff 
+> Heres my portfolio website.
 > https://azan-2077.vercel.app/
 
 
